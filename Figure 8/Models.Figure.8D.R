@@ -1,6 +1,6 @@
 # A script to produce a set of regularized logistic regression models
 #
-# Figure 7D
+# Figure 8D
 #
 
 library(glmnet)

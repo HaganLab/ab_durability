@@ -1,1 +1,2 @@
-# ab_durability
+# System vaccinology analysis of predictors and mechanisms of antibody durability to multiple vaccines in humans
+This repository contains code associated with the [Cortese et al. manuscript (Nature Immunology 2025)](https://doi.org/10.1038/s41590-024-02036-z)
